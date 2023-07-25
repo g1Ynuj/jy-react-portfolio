@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/g1Ynuj.github.io/jy-react-portfolio/static/css/main.640ab423.css",
-    "main.js": "/g1Ynuj.github.io/jy-react-portfolio/static/js/main.f2236fcd.js",
-    "static/media/tutorcn.png": "/g1Ynuj.github.io/jy-react-portfolio/static/media/tutorcn.42463bc640542a3ae285.png",
-    "static/media/resume.pdf": "/g1Ynuj.github.io/jy-react-portfolio/static/media/resume.8e9c79fcc68fd41efb7d.pdf",
-    "static/media/nids-dashboard.png": "/g1Ynuj.github.io/jy-react-portfolio/static/media/nids-dashboard.7d2d0751096801470e62.png",
-    "static/media/bpmtest.png": "/g1Ynuj.github.io/jy-react-portfolio/static/media/bpmtest.cf3da654d5eb193279ad.png",
-    "static/media/me-using-laptop.jpeg": "/g1Ynuj.github.io/jy-react-portfolio/static/media/me-using-laptop.006981391259e7e2a0c7.jpeg",
-    "static/media/myavatar.png": "/g1Ynuj.github.io/jy-react-portfolio/static/media/myavatar.72475e3915ab102fc5f0.png",
-    "static/media/python.png": "/g1Ynuj.github.io/jy-react-portfolio/static/media/python.2004a44f0109efe7bda3.png",
-    "static/media/java.png": "/g1Ynuj.github.io/jy-react-portfolio/static/media/java.6c64373d3b7415758078.png",
-    "index.html": "/g1Ynuj.github.io/jy-react-portfolio/index.html",
-    "main.640ab423.css.map": "/g1Ynuj.github.io/jy-react-portfolio/static/css/main.640ab423.css.map",
-    "main.f2236fcd.js.map": "/g1Ynuj.github.io/jy-react-portfolio/static/js/main.f2236fcd.js.map"
+    "main.css": "/static/css/main.640ab423.css",
+    "main.js": "/static/js/main.32a5b317.js",
+    "static/media/tutorcn.png": "/static/media/tutorcn.42463bc640542a3ae285.png",
+    "static/media/resume.pdf": "/static/media/resume.8e9c79fcc68fd41efb7d.pdf",
+    "static/media/nids-dashboard.png": "/static/media/nids-dashboard.7d2d0751096801470e62.png",
+    "static/media/bpmtest.png": "/static/media/bpmtest.cf3da654d5eb193279ad.png",
+    "static/media/me-using-laptop.jpeg": "/static/media/me-using-laptop.006981391259e7e2a0c7.jpeg",
+    "static/media/myavatar.png": "/static/media/myavatar.72475e3915ab102fc5f0.png",
+    "static/media/python.png": "/static/media/python.2004a44f0109efe7bda3.png",
+    "static/media/java.png": "/static/media/java.6c64373d3b7415758078.png",
+    "index.html": "/index.html",
+    "main.640ab423.css.map": "/static/css/main.640ab423.css.map",
+    "main.32a5b317.js.map": "/static/js/main.32a5b317.js.map"
   },
   "entrypoints": [
     "static/css/main.640ab423.css",
-    "static/js/main.f2236fcd.js"
+    "static/js/main.32a5b317.js"
   ]
 }
